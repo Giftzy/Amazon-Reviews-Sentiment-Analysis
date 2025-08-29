@@ -50,3 +50,6 @@ pip install pandas textblob scikit-learn
         - Dataset statistics
         - Sample predictions with polarity values
         - Accuracy score of the sentiment classifier
+
+👨‍💻 Author
+Developed as part of an NLP learning project on sentiment analysis of Amazon product reviews.
